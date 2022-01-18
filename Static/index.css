@@ -263,6 +263,11 @@ body {
     font-family: var(--poppins);
 }
 
+.Ux{
+  font-weight: 600;
+  font-family: var(--poppins);
+}
+
 .right-hero-para{
     font-family: var(--montserrat);
     font-size: 1rem;
